@@ -195,6 +195,7 @@ parameter:
     url: http://testphp.vulnweb.com/userinfo.php
     method: POST
     body:
-        uname: test
-        pass: test
+        uname: kxuri
+        pass: kxuri
 ```
+
